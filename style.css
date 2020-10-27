@@ -1,0 +1,26 @@
+body {
+    background: #807474;
+    color: #ffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.form {
+    width: 600px;
+}
+
+.form_item {
+    display: block;
+    width: 100%;
+}
+
+.form label {
+    display: block;
+}
+
+.form textarea{
+    width: 600px;
+    height: 300px;
+}
